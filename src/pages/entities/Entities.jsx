@@ -216,6 +216,7 @@ function Entities() {
                     <th className="text-left py-3 px-2 font-medium text-slate-700 w-10" title="Batch status">Batch</th>
                   )}
                   <th className="text-left py-3 px-4 font-medium text-slate-700">Search</th>
+                  <th className="text-left py-3 px-4 font-medium text-slate-700">Table</th>
                   <th className="text-left py-3 px-4 font-medium text-indigo-800 bg-indigo-50/90 border-l border-indigo-200/80">Mode</th>
                   <th className="text-left py-3 px-4 font-medium text-slate-700">Last sync</th>
                   <th className="text-left py-3 px-4 font-medium text-slate-700">Status</th>
